@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Espigares</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h3 align="center">A passionate fullstack developer from Spain</h3>
 
 - 🌱 I’m currently learning **Phyton and C#**
 
